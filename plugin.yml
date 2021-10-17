@@ -1,0 +1,13 @@
+name: PluginCoreClan
+version: 0.1
+author: DechireT
+main: fr.dechiret.plugincoreclan.PluginMain
+depend: [Vault]
+api-version: 1.13
+
+commands:
+  tete:
+  shop:
+    aliases: [s, market, ah, hdv]
+  clan:
+    aliases: [c, cl]
