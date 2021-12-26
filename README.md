@@ -25,6 +25,6 @@ commands:
 ```
 
 # Licence
-This code is fully open source 👍😉.
+This code is under MIT licence 😉.
 
 ## Thanks 😀.
