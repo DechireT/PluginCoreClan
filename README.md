@@ -1,6 +1,6 @@
 # PluginCoreClan
 
-This is an old plugin for a minecraft clan server. It is one of my first spigot plugin 😁 (it is not updated)).
+This is an old plugin for a minecraft clan server. It is one of my first spigot plugin 😁 (it is not updated).
 
 |Minecraft version|1.15|
 |-----------------|-------|
